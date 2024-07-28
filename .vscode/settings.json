@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "facade/src",
+        "padroes-projeto/src/main/java/one/dio/padroes_projeto"
+    ]
+}
